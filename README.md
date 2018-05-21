@@ -1,7 +1,7 @@
 ﻿Markdown Previewer made by Thien Ly
 =======
 
-**Check the live version on Codepen** [Codepen] (https://codepen.io/duongthienlee/pen/bMzyOq). 
+**Check the live version on Codepen** [Codepen](https://codepen.io/duongthienlee/pen/bMzyOq). 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
